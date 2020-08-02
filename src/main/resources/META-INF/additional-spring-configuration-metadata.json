@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "api.access.key",
+      "type": "java.lang.String",
+      "description": "api.access.key for currencylayer."
+    },
+    {
+      "name": "currencies",
+      "type": "java.lang.String",
+      "description": "currencies for currencylayer."
+    }
+  ] }
